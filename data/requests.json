@@ -1,0 +1,42 @@
+[
+  {
+    "id": "RH-MUOII916",
+    "name": "fhgfsd",
+    "phone": "656452342436",
+    "address": "us",
+    "serviceId": "electrical",
+    "serviceName": "Electrical Repair",
+    "estimatedCharge": 349,
+    "description": "fan is not working",
+    "device": "Not specified",
+    "preferredDate": "Not specified",
+    "preferredTime": "Not specified",
+    "technicianId": null,
+    "technicianName": null,
+    "technicianSpecialization": null,
+    "providerNotes": "",
+    "estimatedRepairCost": null,
+    "status": "Pending",
+    "statusHistory": [
+      {
+        "status": "Pending",
+        "time": "2026-09-30T19:42:33.018Z"
+      }
+    ],
+    "createdAt": "2026-09-30T19:42:33.018Z",
+    "updatedAt": "2026-09-30T19:42:33.018Z"
+  },
+  {
+    "id": "RH-MUOHXOFE",
+    "name": "Snehitha",
+    "phone": "6305028238",
+    "address": "Hyderabad",
+    "serviceId": "laptop",
+    "serviceName": "Laptop Repair",
+    "estimatedCharge": 499,
+    "description": "laptop is turning on",
+    "status": "Accepted",
+    "createdAt": "2026-09-30T19:26:33.194Z",
+    "updatedAt": "2026-09-30T19:33:29.615Z"
+  }
+]
